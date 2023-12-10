@@ -1,16 +1,31 @@
-### Hi there 👋
+**_Welcome internet natives_**
+# Hi, Im Julian Urgaregui 👋🏽
+*If you were looking for an UX designer you have entered the right profile. In this document you will tell you why this statement*
 
-<!--
-**julianurgaregui/julianurgaregui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🤵🏽 I'm 26 years old and I live in 🇦🇷 
+- 👨🏽‍🎓 Student of University Technology in Mechatronica at UTN
+- 📝 I am a UX designer, specialized in Writing.
+- 💻 I am an enthusiast of new technologies and their impact on people's lives
 
-Here are some ideas to get you started:
+## Skills
+- UX Design / Writing & Research
+- UI Design
+- HTML
+- CSS
+- JavaScript
+- Markdown
+- Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+- Notion
+- Figma
+- Agile methodologies
+
+## Certificates
+🔗 [Link to certificates](https://drive.google.com/drive/folders/1rNAFNiIUvOJqP8J5lH8w1ckVDR811EPL)
+
+## Contact
+- 📧 [Email](urgaregui@gmail.com)
+- 👤 [LinkedIn Profile](https://ar.linkedin.com/in/julian-urgaregui-30696216a)
+- 🎨 [Behance Profile](https://www.behance.net/julianurgaregui1/)
