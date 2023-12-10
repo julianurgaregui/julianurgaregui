@@ -1,6 +1,6 @@
 **_Welcome internet natives_**
 # Hi, Im Julian Urgaregui 👋🏽
-*If you were looking for an UX designer you have entered the right profile. In this document you will tell you why this statement*
+*If you were looking for an UX designer you have entered the right profile. In this document you will tell you why this statement*.
 
 ## About me
 - 🤵🏽 I'm 26 years old and I live in 🇦🇷 
