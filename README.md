@@ -11,6 +11,7 @@
 ## Skills
 - UX Design / Writing & Research
 - UI Design
+- Customer Experience - *CX*
 - HTML
 - CSS
 - JavaScript
