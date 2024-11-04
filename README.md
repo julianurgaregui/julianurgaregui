@@ -4,7 +4,7 @@
 
 ## About me
 - 🤵🏽 I'm 26 years old and I live in 🇦🇷 
-- 👨🏽‍🎓 Student of University Technology in Mechatronica at UTN
+- 👨🏽‍🎓 Student of Product Design at Integral Higher Design Institute. 
 - 📝 I am a UX designer, specialized in Writing.
 - 💻 I am an enthusiast of new technologies and their impact on people's lives
 
@@ -16,7 +16,6 @@
 - CSS
 - JavaScript
 - Markdown
-- Arduino
 
 #### Tools
 - Notion
