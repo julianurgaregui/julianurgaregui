@@ -1,14 +1,14 @@
 **_Welcome internet natives_**
 
-# Hi, Im Julian Urgaregui 👋🏽
+# Hi, Im Julian Urgaregui `👋🏽`
 
 _If you were looking for an UX designer you have entered the right profile. In this document you will tell you why this statement_.
 
 ## About me
 
 - 🤵🏽 I'm 28 years old and I live in 🇦🇷
-- 👨🏽‍🎓 Student of Diploma in UX in [Coderhouse](https://www.coderhouse.com/ar/diplomaturas/diseno/).
-- 📝 I am a UX designer, specializing in UX Writing.
+- 👨🏽‍🎓 Student of Diploma in UX in [Coderhouse](https://www.coderhouse.com/ar/diplomaturas/diseno/)
+- 📝 I am a UX designer, specializing in UX Writing
 - 💻 I am an enthusiast of new technologies and their impact on people's lives
 
 ## Skills
