@@ -8,18 +8,20 @@ _If you were looking for an UX designer you have entered the right profile. In t
 
 - 🤵🏽 I'm 29 years old and I live in 🇦🇷
 - 👨🏽‍🎓 Student of Technical degree in programming in [UTN-FRVM](https://www.frvm.utn.edu.ar/oferta-academica/tecnicatura-superior-programacion))
-- 📝 I am a UX designer, specializing in UX Writing
-- 💻 I am an enthusiast of new technologies and their impact on people's lives
+- 📝 UX designer, specializing in UX Writing
+- 💻 Enthusiast of new technologies and their impact on people's lives
 
 ## Skills
 
 - UX Design / Writing & Research
 - UI Design
-- Customer Experience - _CX_
 - HTML
 - CSS
-- JavaScript
-- Markdown
+- JS
+- PYTHON
+- GIT
+- BASH
+- MARKDOWN
 
 #### Tools
 
@@ -33,6 +35,6 @@ _If you were looking for an UX designer you have entered the right profile. In t
 
 ## Contact
 
-- 📧 [Email](urgaregui@gmail.com)
+- 📧 [Email](mailto:urgaregui@gmail.com)
 - 👤 [LinkedIn Profile](https://ar.linkedin.com/in/julian-urgaregui-30696216a)
 - 🎨 [Behance Profile](https://www.behance.net/julianurgaregui1/)
