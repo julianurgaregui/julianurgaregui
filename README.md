@@ -6,8 +6,8 @@ _If you were looking for an UX designer you have entered the right profile. In t
 
 ## About me
 
-- 🤵🏽 I'm 28 years old and I live in 🇦🇷
-- 👨🏽‍🎓 Student of Diploma in UX in [Coderhouse](https://www.coderhouse.com/ar/diplomaturas/diseno/)
+- 🤵🏽 I'm 29 years old and I live in 🇦🇷
+- 👨🏽‍🎓 Student of Technical degree in programming in [UTN-FRVM](https://www.frvm.utn.edu.ar/oferta-academica/tecnicatura-superior-programacion))
 - 📝 I am a UX designer, specializing in UX Writing
 - 💻 I am an enthusiast of new technologies and their impact on people's lives
 
